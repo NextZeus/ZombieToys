@@ -80,7 +80,10 @@
      <Compile Include="Assets\Scripts\UI\MobileInterface.cs" />
      <Compile Include="Assets\Scripts\UI\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\UI\Touchpad.cs" />
+     <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\Fonts\LICENSE.txt" />
+     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
+     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>/Users/lixd/Documents/myProject/unityProjects/ZombieToys/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
