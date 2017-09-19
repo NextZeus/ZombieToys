@@ -80,6 +80,7 @@
      <Compile Include="Assets\Scripts\UI\MobileInterface.cs" />
      <Compile Include="Assets\Scripts\UI\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\UI\Touchpad.cs" />
+     <Compile Include="Assets\build.cs" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\Fonts\LICENSE.txt" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
