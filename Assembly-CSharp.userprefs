@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{D5A17994-317D-DAE6-7CE4-945201548A0C}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/build.cs">
+    <Files>
+      <File FileName="Assets/build.cs" Line="13" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
